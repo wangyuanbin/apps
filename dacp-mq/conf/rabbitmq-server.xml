@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:rabbit="http://www.springframework.org/schema/rabbit"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+       http://www.springframework.org/schema/beans/spring-beans.xsd 
+       http://www.springframework.org/schema/context 
+       http://www.springframework.org/schema/context/spring-context.xsd 
+       http://www.springframework.org/schema/rabbit 
+       http://www.springframework.org/schema/rabbit/spring-rabbit-1.0.xsd">
+
+	<context:component-scan base-package="com.asiainfo" />
+	<context:property-placeholder location="file:conf/rabbitmq.properties"
+		ignore-unresolvable="true" />
+	<!-- 连接服务配置 -->
+	<rabbit:connection-factory id="connectionFactory"
+		host="${rabbit-host}" username="${rabbit-username}" password="${rabbit-password}"
+		port="${rabbit-port}" />
+	<rabbit:admin id="rabbitAdmin" connection-factory="connectionFactory" />
+	<rabbit:template id="rabbitTemplate"
+		connection-factory="connectionFactory" />
+	<rabbit:queue id="requsetAndResponse" durable="true" auto-delete="false"
+		exclusive="false" name="requsetAndResponse" />
+	<rabbit:listener-container
+		connection-factory="connectionFactory">
+		<rabbit:listener ref="responseListener" method="onMessage"
+			queues="requsetAndResponse" />
+	</rabbit:listener-container>
+</beans>

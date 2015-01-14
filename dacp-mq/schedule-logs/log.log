@@ -1,0 +1,1001 @@
+16:43:34.758 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:35.866 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:36.885 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:37.900 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:38.913 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:39.922 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:40.938 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:41.949 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:42.961 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:43.976 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:45.009 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:46.024 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:47.036 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:48.048 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:49.062 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:50.082 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:51.102 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:52.116 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:53.131 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:54.146 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:55.159 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:56.172 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:57.186 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:58.200 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:43:59.214 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:44:00.229 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:44:01.243 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:44:02.258 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:44:03.272 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:44:04.290 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234"
+16:47:07.841 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:07.841 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:08.869 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:08.923 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:09.882 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:09.937 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:10.895 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:10.951 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:11.909 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:11.962 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:12.920 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:13.007 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:13.934 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:14.021 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:14.947 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:15.039 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:15.962 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:16.055 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:17.003 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:17.069 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:18.017 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:18.084 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:19.028 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:19.095 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:20.039 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:20.105 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:21.052 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:21.122 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:22.065 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:22.140 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:23.078 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:23.153 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:24.094 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:24.166 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:25.107 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:25.180 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:26.120 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:26.195 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:27.134 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:27.213 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:28.213 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:28.228 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:29.227 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:29.241 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:30.240 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:30.255 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:31.253 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:31.300 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:32.267 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:32.312 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:33.281 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:33.323 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:34.294 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:34.341 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:35.349 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:35.361 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:47:36.364 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:47:36.378 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:19.498 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:19.499 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:20.514 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:20.524 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:21.532 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:21.543 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:22.543 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:22.592 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:23.553 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:23.603 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:24.568 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:24.619 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:25.583 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:25.636 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:26.645 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:26.662 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:27.665 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:27.680 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:28.680 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:28.698 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:29.694 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:29.713 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:30.707 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:30.724 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:31.722 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:31.739 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:32.732 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:32.773 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:33.739 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:33.780 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:34.752 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:34.790 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:35.766 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:35.803 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:36.779 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:48:36.821 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:48:37.539 [pool-1-thread-1] ERROR o.s.a.r.c.CachingConnectionFactory - Channel shutdown: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+16:48:37.540 [pool-1-thread-1] ERROR o.s.a.r.c.CachingConnectionFactory - Channel shutdown: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+16:48:37.542 [pool-1-thread-1] ERROR o.s.a.r.c.CachingConnectionFactory - Channel shutdown: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+16:48:37.874 [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it
+com.rabbitmq.client.ShutdownSignalException: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+	at com.rabbitmq.client.impl.AMQConnection.startShutdown(AMQConnection.java:715) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection.shutdown(AMQConnection.java:705) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection.handleConnectionClose(AMQConnection.java:660) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection.processControlCommand(AMQConnection.java:615) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection$1.processAsync(AMQConnection.java:107) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQChannel.handleCompleteInboundCommand(AMQChannel.java:144) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQChannel.handleFrame(AMQChannel.java:91) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection$MainLoop.run(AMQConnection.java:540) ~[amqp-client-3.3.4.jar:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+16:48:43.893 [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:48:49.896 [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:48:55.913 [SimpleAsyncTaskExecutor-4] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:49:01.927 [SimpleAsyncTaskExecutor-5] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:49:07.940 [SimpleAsyncTaskExecutor-6] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:49:13.955 [SimpleAsyncTaskExecutor-7] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:50:56.278 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:50:56.278 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:50:57.300 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:50:57.305 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:50:58.314 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:50:58.320 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:50:59.329 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:50:59.381 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:00.344 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:00.399 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:01.356 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:01.419 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:02.365 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:02.405 [pool-1-thread-1] ERROR o.s.a.r.c.CachingConnectionFactory - Channel shutdown: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+16:51:02.405 [pool-1-thread-1] ERROR o.s.a.r.c.CachingConnectionFactory - Channel shutdown: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+16:51:02.408 [pool-1-thread-1] ERROR o.s.a.r.c.CachingConnectionFactory - Channel shutdown: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+16:51:03.380 [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it
+com.rabbitmq.client.ShutdownSignalException: connection error; protocol method: #method<connection.close>(reply-code=320, reply-text=CONNECTION_FORCED - broker forced connection closure with reason 'shutdown', class-id=0, method-id=0)
+	at com.rabbitmq.client.impl.AMQConnection.startShutdown(AMQConnection.java:715) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection.shutdown(AMQConnection.java:705) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection.handleConnectionClose(AMQConnection.java:660) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection.processControlCommand(AMQConnection.java:615) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection$1.processAsync(AMQConnection.java:107) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQChannel.handleCompleteInboundCommand(AMQChannel.java:144) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQChannel.handleFrame(AMQChannel.java:91) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.impl.AMQConnection$MainLoop.run(AMQConnection.java:540) ~[amqp-client-3.3.4.jar:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+16:51:03.453 [Thread-1] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createBareChannel(CachingConnectionFactory.java:318) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.getCachedChannelProxy(CachingConnectionFactory.java:292) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.getChannel(CachingConnectionFactory.java:285) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.access$600(CachingConnectionFactory.java:71) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory$ChannelCachingConnectionProxy.createChannel(CachingConnectionFactory.java:626) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createChannel(ConnectionFactoryUtils.java:85) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:134) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$2.run(TestMQClient.java:26) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 19 common frames omitted
+16:51:04.446 [Thread-0] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$1.run(TestMQClient.java:14) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:05.457 [Thread-1] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$2.run(TestMQClient.java:26) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:06.460 [Thread-0] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$1.run(TestMQClient.java:14) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:07.461 [Thread-1] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$2.run(TestMQClient.java:26) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:08.465 [Thread-0] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$1.run(TestMQClient.java:14) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:09.403 [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:51:09.468 [Thread-1] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$2.run(TestMQClient.java:26) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:10.472 [Thread-0] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$1.run(TestMQClient.java:14) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:11.473 [Thread-1] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$2.run(TestMQClient.java:26) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:12.477 [Thread-0] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$1.run(TestMQClient.java:14) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:13.478 [Thread-1] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$2.run(TestMQClient.java:26) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:14.481 [Thread-0] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$1.run(TestMQClient.java:14) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:15.422 [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:51:15.482 [Thread-1] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$2.run(TestMQClient.java:26) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:16.485 [Thread-0] ERROR c.a.dacp.rabbitmq.MessageReceiver - 
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:54) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:195) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:371) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils$1.createConnection(ConnectionFactoryUtils.java:80) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.doGetTransactionalResourceHolder(ConnectionFactoryUtils.java:130) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.getTransactionalResourceHolder(ConnectionFactoryUtils.java:67) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.connection.RabbitAccessor.getTransactionalResourceHolder(RabbitAccessor.java:106) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:828) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:822) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceiveWithTemporary(RabbitTemplate.java:707) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doSendAndReceive(RabbitTemplate.java:699) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:675) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertSendAndReceive(RabbitTemplate.java:654) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	at com.asiainfo.dacp.rabbitmq.MessageSender.sendAndRecieve(MessageSender.java:100) ~[classes/:na]
+	at com.asiainfo.dacp.rabbitmq.TestMQClient$1.run(TestMQClient.java:14) [test-classes/:na]
+	at java.lang.Thread.run(Thread.java:722) [na:1.7.0_07]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[na:1.7.0_07]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200) ~[na:1.7.0_07]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182) ~[na:1.7.0_07]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[na:1.7.0_07]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[na:1.7.0_07]
+	at java.net.Socket.connect(Socket.java:579) ~[na:1.7.0_07]
+	at com.rabbitmq.client.impl.FrameHandlerFactory.create(FrameHandlerFactory.java:32) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:588) ~[amqp-client-3.3.4.jar:na]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:624) ~[amqp-client-3.3.4.jar:na]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:191) ~[spring-rabbit-1.3.6.RELEASE.jar:na]
+	... 14 common frames omitted
+16:51:21.437 [SimpleAsyncTaskExecutor-4] WARN  o.s.a.r.l.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:51:21.466 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:21.470 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:22.498 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:22.510 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:23.512 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:23.524 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:24.528 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:24.546 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:25.547 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:25.583 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:26.560 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:26.596 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:27.569 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:27.608 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:28.581 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:28.624 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:29.622 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:29.638 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:30.635 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:30.649 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:31.648 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:31.663 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:32.663 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:32.706 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:33.678 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:33.719 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:34.690 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:34.731 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:35.705 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:35.756 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:36.720 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:36.771 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:37.735 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:37.787 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:38.749 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:38.802 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:39.763 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:39.818 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:40.779 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:40.835 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:41.790 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:41.851 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:42.799 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:42.864 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:43.812 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:43.909 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:44.826 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:44.921 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:45.841 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:45.933 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:46.854 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:46.947 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:47.931 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:47.958 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:48.944 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:48.971 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:49.958 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:49.986 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:50.970 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:51.006 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:51.987 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:52.021 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:52.996 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:53.034 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:54.005 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:54.051 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:55.065 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:55.077 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:56.080 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:56.094 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:57.095 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:57.109 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:58.109 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:58.123 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:51:59.122 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:51:59.135 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:00.135 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:00.151 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:01.150 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:01.205 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:02.163 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:02.221 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:03.178 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:03.238 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:04.192 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:04.250 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:05.204 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:05.270 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:06.265 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:06.284 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:07.277 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:07.294 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:08.291 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:08.308 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:09.305 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:09.341 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:10.318 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:10.354 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:11.330 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:11.365 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:12.342 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:12.392 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:13.354 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:13.407 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:14.365 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:14.424 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:15.376 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:15.441 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:16.394 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:16.457 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:17.472 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:17.486 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:18.486 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:18.497 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:19.497 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:19.511 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:20.511 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:20.653 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:21.525 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:21.667 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:22.543 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:22.682 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:23.554 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:23.701 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:24.608 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:24.714 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:25.621 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:25.733 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:26.634 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:26.748 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:27.652 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:27.789 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:28.665 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:28.800 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:29.678 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:29.811 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:30.692 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:30.820 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:31.705 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:31.831 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:32.717 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:32.844 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:33.730 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:33.860 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:34.743 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:34.875 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:35.806 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:35.890 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:36.820 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:36.903 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:37.835 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:37.916 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:38.848 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:38.961 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:39.862 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:39.971 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:40.875 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:40.985 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:41.891 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:41.998 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:42.952 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:43.011 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:43.965 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:44.025 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:44.978 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:45.039 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:45.992 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:46.053 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:47.002 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:47.066 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:48.014 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:48.080 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:49.025 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:49.091 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:50.078 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:50.103 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:51.093 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:51.117 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:52.103 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:52.126 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:53.109 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:53.136 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:54.150 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:54.192 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:55.165 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:55.207 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:56.180 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:56.222 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:57.195 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:57.241 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:58.212 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:58.253 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:52:59.225 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:52:59.266 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:00.239 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:00.284 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:01.299 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:01.348 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:02.311 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:02.362 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:03.324 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:03.377 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:04.339 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:04.407 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:05.351 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:05.417 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:06.363 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:06.433 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:07.376 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:07.452 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:08.392 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:08.463 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:09.404 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:09.474 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:10.413 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:10.489 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:11.423 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:11.502 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:12.478 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:12.516 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:13.490 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:13.526 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:14.501 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:14.537 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:15.510 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:15.563 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:16.518 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:16.573 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:17.533 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:17.588 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:18.544 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:18.604 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:19.597 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:19.617 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:20.609 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:20.629 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:21.622 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:21.641 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:22.634 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:22.651 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:23.647 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:23.665 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:24.661 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:24.677 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:25.675 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:25.691 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:26.691 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:26.757 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:27.705 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:27.771 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:28.719 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:28.786 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:29.736 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:29.803 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:30.804 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:30.819 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:31.817 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:31.831 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:32.829 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:32.843 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:33.843 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:33.893 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:34.856 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:34.905 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:35.871 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:35.917 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:36.880 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:36.929 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:37.942 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:37.946 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:38.960 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:38.975 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:39.983 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:39.990 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:41.000 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:41.008 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:42.016 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:42.026 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:43.031 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:43.044 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:44.042 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:44.054 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:45.051 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:45.150 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:46.065 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:46.164 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:47.079 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:47.176 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:48.093 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:48.187 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:49.155 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:49.200 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:50.167 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:50.213 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:51.181 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:51.228 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:52.196 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:52.250 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:53.209 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:53.272 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:54.223 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:54.287 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:55.238 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:55.313 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:56.255 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:56.328 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:57.269 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:57.343 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:58.282 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:58.357 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:53:59.296 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:53:59.371 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:00.309 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:00.385 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:01.324 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:01.399 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:02.337 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:02.414 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:03.351 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:03.466 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:04.362 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:04.481 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:05.369 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:05.493 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:06.380 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:06.504 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:07.440 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:07.516 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:08.454 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:08.529 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:09.467 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:09.544 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:10.481 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:10.590 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:11.494 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:11.605 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:12.515 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:12.623 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:13.529 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:13.640 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:14.544 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:14.687 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:15.554 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:15.700 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:16.565 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:16.716 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:17.580 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:17.731 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:18.592 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:18.746 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:19.607 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:19.759 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:20.620 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:20.773 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:21.634 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:21.787 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:22.647 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:22.801 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:23.660 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:23.813 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:24.674 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:24.852 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:25.689 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:25.865 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:26.700 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:26.877 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:27.710 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:27.889 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:28.758 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:28.903 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+16:54:29.773 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+16:54:29.919 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+17:40:26.715 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
+17:40:26.715 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
