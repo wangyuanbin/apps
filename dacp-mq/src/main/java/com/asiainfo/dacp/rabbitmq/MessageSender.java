@@ -92,14 +92,19 @@ public class MessageSender {
 	 */
 	public String sendAndRecieve(String queueName, Object resquestMessage,
 			long replyTimeout) {
-		RabbitTemplate _template = new RabbitTemplate(connectionFactory);
-		if (replyTimeout > 0) {
-			_template.setReplyTimeout(replyTimeout);
+		try{
+			RabbitTemplate _template = new RabbitTemplate(connectionFactory);
+			if (replyTimeout > 0) {
+				_template.setReplyTimeout(replyTimeout);
+			}
+			Object replyObject = _template.convertSendAndReceive("", queueName,
+					resquestMessage);
+			String responseMessage = replyObject == null ? null
+					: (String) replyObject;
+			return responseMessage;
+		}catch(Exception ex){
+			logger.error("",ex);
 		}
-		Object replyObject = _template.convertSendAndReceive("", queueName,
-				resquestMessage);
-		String responseMessage = replyObject == null ? null
-				: (String) replyObject;
-		return responseMessage;
+		return null;
 	}
 }
