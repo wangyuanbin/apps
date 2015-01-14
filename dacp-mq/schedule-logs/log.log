@@ -999,3 +999,12 @@ Caused by: java.net.ConnectException: Connection refused: connect
 16:54:29.919 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
 17:40:26.715 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234a"
 17:40:26.715 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message "1234b"
+19:24:58.653 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001"}
+19:25:51.172 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001"}
+19:27:01.379 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001"}
+19:28:56.069 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001"}
+19:30:00.196 [pool-2-thread-3] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001"}
+19:31:05.975 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001"}
+19:32:21.586 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001","SYN_TYPE":"UPDATE"}
+19:33:55.892 [pool-2-thread-2] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001","SYN_TYPE":"UPDATE"}
+19:49:07.529 [pool-2-thread-1] INFO  c.a.dacp.rabbitmq.ResponseListener - recieve resquest message {"PROC_NAME":"DF1411001","SYN_TYPE":"UPDATE"}

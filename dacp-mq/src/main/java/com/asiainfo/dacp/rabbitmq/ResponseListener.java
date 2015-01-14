@@ -10,25 +10,25 @@ import org.springframework.amqp.core.MessageListener;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.amqp.support.converter.SimpleMessageConverter;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import com.google.gson.Gson;
-@Service("responseListener")
 public  class ResponseListener implements MessageListener{
 	@Autowired
-	private ResponseHandler handler;
-	@Autowired
 	private RabbitTemplate rabbitTemplate;
+	private ResponseHandler responseHandler;
 	private ExecutorService threadPool = Executors.newCachedThreadPool();
 	private Gson jsonTool = new Gson();
 	private Logger logger = LoggerFactory.getLogger(ResponseListener.class);
 	private SimpleMessageConverter converter = new SimpleMessageConverter();
+	public void setHandler(ResponseHandler responseHandler) {
+		this.responseHandler = responseHandler;
+	}
 	public void onMessage( final Message requestMessage) {
 		threadPool.execute(new Runnable() {
 			public void run() {
 				Object msg = converter.fromMessage(requestMessage);
 				logger.info("recieve resquest message {}",jsonTool.toJson(msg));
-				String res = handler.handler(msg);
+				String res = responseHandler.handler(msg);
 				String reply = requestMessage.getMessageProperties().getReplyTo();
 				rabbitTemplate.convertAndSend(reply, res);
 			}

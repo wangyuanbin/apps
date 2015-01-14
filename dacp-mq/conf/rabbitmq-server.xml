@@ -21,6 +21,12 @@
 		connection-factory="connectionFactory" />
 	<rabbit:queue id="requsetAndResponse" durable="true" auto-delete="false"
 		exclusive="false" name="requsetAndResponse" />
+	<bean id="responseHandler"   class="com.asiainfo.dacp.rabbitmq.TestHandle">  
+    </bean>
+	<bean id="responseListener"  
+        class="com.asiainfo.dacp.rabbitmq.ResponseListener">  
+        <property name="responseHandler" ref="responseHandler"/>      
+    </bean>  
 	<rabbit:listener-container
 		connection-factory="connectionFactory">
 		<rabbit:listener ref="responseListener" method="onMessage"
