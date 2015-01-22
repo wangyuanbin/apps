@@ -20,7 +20,10 @@ public  class ResponseListener implements MessageListener{
 	private Gson jsonTool = new Gson();
 	private Logger logger = LoggerFactory.getLogger(ResponseListener.class);
 	private SimpleMessageConverter converter = new SimpleMessageConverter();
-	public void setHandler(ResponseHandler responseHandler) {
+	public ResponseHandler getResponseHandler() {
+		return responseHandler;
+	}
+	public void setResponseHandler(ResponseHandler responseHandler) {
 		this.responseHandler = responseHandler;
 	}
 	public void onMessage( final Message requestMessage) {
