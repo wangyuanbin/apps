@@ -19,11 +19,7 @@ public class MessageSender {
 	public static Logger logger = LoggerFactory
 			.getLogger(MessageReceiver.class);
 	@Autowired
-	private RabbitTemplate rabbitTemplate;
-	@Autowired
 	private ConnectionFactory connectionFactory;
-	@Autowired
-	private RabbitAdmin rabbitAdmin;
 	@Value("${rabbit-send-exchange}")
 	private String rabbit_send_exchange;
 
@@ -34,6 +30,8 @@ public class MessageSender {
 			String row_key = queueName.concat("_key");
 			DirectExchange dexchange = new DirectExchange(rabbit_send_exchange);
 			Queue queue = new Queue(queueName);
+			RabbitAdmin rabbitAdmin = new RabbitAdmin(connectionFactory);
+			RabbitTemplate rabbitTemplate = new RabbitTemplate(connectionFactory);
 			rabbitAdmin.declareExchange(dexchange);
 			rabbitAdmin.declareBinding(BindingBuilder.bind(queue).to(dexchange)
 					.with(row_key));
@@ -54,7 +52,8 @@ public class MessageSender {
 			String row_key = queueName.concat("_key");
 			DirectExchange dexchange = new DirectExchange(exchangeName);
 			Queue queue = new Queue(queueName);
-
+			RabbitAdmin rabbitAdmin = new RabbitAdmin(connectionFactory);
+			RabbitTemplate rabbitTemplate = new RabbitTemplate(connectionFactory);
 			rabbitAdmin.declareExchange(dexchange);
 			rabbitAdmin.declareBinding(BindingBuilder.bind(queue).to(dexchange)
 					.with(row_key));
@@ -70,6 +69,8 @@ public class MessageSender {
 	public boolean pushMessage(String exchangeName, String msgId, Message msgObj) {
 		boolean sendFlag = false;
 		try {
+			RabbitAdmin rabbitAdmin = new RabbitAdmin(connectionFactory);
+			RabbitTemplate rabbitTemplate = new RabbitTemplate(connectionFactory);
 			FanoutExchange fanExchange = new FanoutExchange(exchangeName, true,
 					false);
 			rabbitAdmin.declareExchange(fanExchange);
@@ -97,7 +98,7 @@ public class MessageSender {
 			if (replyTimeout > 0) {
 				_template.setReplyTimeout(replyTimeout);
 			}
-			Object replyObject = _template.convertSendAndReceive("", queueName,
+			Object replyObject = _template.convertSendAndReceive( queueName,
 					resquestMessage);
 			String responseMessage = replyObject == null ? null
 					: (String) replyObject;

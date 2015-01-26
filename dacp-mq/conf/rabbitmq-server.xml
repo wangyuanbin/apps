@@ -16,9 +16,6 @@
 	<rabbit:connection-factory id="connectionFactory"
 		host="${rabbit-host}" username="${rabbit-username}" password="${rabbit-password}"
 		port="${rabbit-port}" />
-	<rabbit:admin id="rabbitAdmin" connection-factory="connectionFactory" />
-	<rabbit:template id="rabbitTemplate"
-		connection-factory="connectionFactory" />
 	<rabbit:queue id="requsetAndResponse" durable="true" auto-delete="false"
 		exclusive="false" name="requsetAndResponse" />
 	<bean id="responseHandler"   class="com.asiainfo.dacp.rabbitmq.TestHandle">  
